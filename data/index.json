@@ -13,7 +13,7 @@
             "category": "Keyboard",
             "description": "Multimedia Keyboard-KB216 - US International (QWERTY) - Green",
             "amount": 319.05,
-            "img_url": " https://nusaibah01.github.io/all-images/images/images/KeyBoard.png"
+            "img_url": " https://nusaibah01.github.io/all-images/images//KeyBoard.png"
         },
     
         {
@@ -21,14 +21,14 @@
             "category": "Multi-Surface Stickers",
             "description": " waterproof and dishwasher safe stickers, ideal for lableing plastic, electronic equipment and books amongst other things. Apply to a clean, residue free and dry surface.",
             "amount": 319.05,
-            "img_url": " https://nusaibah01.github.io/all-images/images/k"
+            "img_url": " https://nusaibah01.github.io/all-images/images/kiki's cat.jpg"
         },
         {
             "productName": "HUAWEI MateBook X Pro",
             "category": "Laptop",
             "description": "HUAWEI MateBook X Pro premium edition Ink Blue 16GB+1TB5.0 / 5.0",
             "amount": 29000.05,
-            "img_url": " https://nusaibah01.github.io/all-images/images/huawei-matebook.jpg"
+            "img_url": " https://nusaibah01.github.io/all-images/matebook.jpg"
         },
         {
             "productName": "Coder",
@@ -42,7 +42,7 @@
             "category": "Laptop",
             "description": "V 15 Core i5-13420H 8GB 512GB RTX2050 Gaming Laptop",
             "amount": 29000.05,
-            "img_url": " https://nusaibah01.github.io/all-images/images/acer-nitrogaming.jpg"
+            "img_url": " https://nusaibah01.github.io/all-images/images/images/acergaming.jpg"
         }
     
     ]
